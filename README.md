@@ -12,5 +12,6 @@
   - mise.toml
   - assinatura digital do main.zig
   - sua chave pública em formato binário
+  - **ATENÇÃO:** os arquivos devem ser estar em um pasta nomeada **src**
 - Criptografe seu tarball (arquivo tar.gz) com minha chave pública
 - Submeta seu código via Pull Request assinado
